@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../cpu"
+		},
+		{
+			"path": "../../../file-system"
+		},
+		{
+			"path": "../../../kernel"
+		},
+		{
+			"path": "../../../memory"
+		},
+		{
+			"path": "../.."
+		}
+	]
+}

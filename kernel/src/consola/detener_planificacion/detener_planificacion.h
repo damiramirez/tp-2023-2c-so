@@ -1,0 +1,8 @@
+#ifndef SRC_CONSOLA_DETENER_PLANIFICACION_DETENER_PLANIFICACION_H_
+#define SRC_CONSOLA_DETENER_PLANIFICACION_DETENER_PLANIFICACION_H_
+
+#include <planificadores/planificador.h>
+
+void detener_planificacion(t_log* logger);
+
+#endif /* SRC_CONSOLA_DETENER_PLANIFICACION_DETENER_PLANIFICACION_H_ */
